@@ -1,3 +1,3 @@
-# SQL-Practice
+# SQL Practice
 
 Some of My SQL practice.
